@@ -43,7 +43,7 @@ body {
     /* Center-aligns the content */
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
     /* Subtle divider */
-    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.4);
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.5);
     /* Adds depth */
     transition: background 0.3s ease;
     /* Smooth transition for subtle effects */
